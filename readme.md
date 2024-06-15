@@ -76,5 +76,3 @@ Plotly was used to create visualizations
 This project was completed as part of an internship with uniConverge Technologies Private Limited and Upskill Campus. Special thanks to the mentors and team members for their guidance and support.
 
 ---
-
-This README provides a comprehensive overview of the project, including the dataset, preprocessing steps, modeling techniques, evaluation metrics, visualizations, and instructions for installation and usage. Feel free to update the repository URL, contributor information, and any other details as needed.
