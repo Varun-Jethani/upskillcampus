@@ -15,8 +15,8 @@ This project aims to predict traffic volume at various junctions using machine l
   - [LSTM Model](#lstm-model)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Visualizations](#visualizations)
-- [Installation and Usage](#installation-and-usage)
-- [Contributors](#contributors)
+
+
 - [Acknowledgements](#acknowledgements)
 
 ## Dataset
